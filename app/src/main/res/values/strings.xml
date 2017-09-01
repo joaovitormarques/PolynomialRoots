@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PolynomialRoots</string>
+    <string name="first_coeficient">Coeficiente de x²</string>
+    <string name="second_coeficient">Coeficiente de x</string>
+    <string name="third_coeficient">Coeficiente linear</string>
+    <string name="invalid_result">Coeficientes inválidos</string>
+    <string name="invalid_coeficient">Primeiro coeficiente não pode ser nulo</string>
+    <string name="calculate_roots">Calcular raízes</string>
+    <string name="result_roots" formatted="false">As raízes são: %.2f e %.2f</string>
+</resources>
